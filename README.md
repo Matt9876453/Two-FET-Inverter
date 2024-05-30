@@ -39,9 +39,15 @@ Each 140-160 VDC solar array needs 5Amp glass fast blow fuse and holder.
 2 6K 5Watt resistors ceramic block
 
 2 10MFD 200volt capacitors
+
 1 225J630 filter capacitor
+
 1 60hz 2,000 watt choke 2100 HT V/H 288uH
+
 2 85 Mfd capacitors 450Volt
+
 2 800ohm resistors
+
 2 10-15 amp glass fast blow fuse and holders for Inverter output 120 VAC 60Hz.
+
 END
