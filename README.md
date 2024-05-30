@@ -1,20 +1,20 @@
-https://github.com/Matt9876453/Two-FET-Inverter.git
-
-Two new FET working parts list May 8th 2024 Grid Works.
+Two new FET working parts list May 30th 2024 Grid Works.
 
 1 P channel Mosfet IXTK40P50P
 
-1 N channel Mosfet 40N65 
+1 N channel Mosfet FGA40N65
 
-2 12 Volt zener diodes 5Watt
+2 Zener diodes 12VDC 5 watt Zener Diodes 1N5349
 
-1 555 timer
+1 555 timer through hole 8 pin
 
-2 15Amp diodes or 4 10Amp diodes
+2 15Amp diodes STTH1502DI or four 10Amp diodes 200+ volts rated 10A10
 
-2 Flyback diodes 10 amp 200 volt rated
+2 Flyback diodes 10 amp 200+ volt rated 10A10
 
-3 1Amp diodes
+3 1Amp diodes 1N4007
+
+20K resistor may be needed for 60Hz potentiometer additional for low hertz.
 
 1 5.7K resistor
 
@@ -26,7 +26,7 @@ Two new FET working parts list May 8th 2024 Grid Works.
 
 2 2A154k small green ceramic capacitors
 
-2 optic couplers led input with Darrlington C/E output
+2 optic couplers 4N33M LED input with Darlington C/E output
 
 3 820 ohm resistors
 
@@ -34,15 +34,14 @@ Two new FET working parts list May 8th 2024 Grid Works.
 
 1 Inverter case with fan or heat sinks with fan
 
-Each 140-160 VDC solar array needs 5Amp glass fast blow fuse and holder
+Each 140-160 VDC solar array needs 5Amp glass fast blow fuse and holder.
 
-2 6K 5Watt resistors
+2 6K 5Watt resistors ceramic block
 
 2 10MFD 200volt capacitors
-
 1 225J630 filter capacitor
-1 60hz 2,000 watt choke
+1 60hz 2,000 watt choke 2100 HT V/H 288uH
 2 85 Mfd capacitors 450Volt
 2 800ohm resistors
-1 10-15 amp glass fast blow fuse and holder for Inverter output 120 VAC 60Hz
+2 10-15 amp glass fast blow fuse and holders for Inverter output 120 VAC 60Hz.
 END
