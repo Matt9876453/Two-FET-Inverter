@@ -1,4 +1,4 @@
-Two new FET working parts list May 30th 2024 Grid Works.
+Two new FET working parts list update June 8th 2024 Grid Works.
 
 1 P channel Mosfet IXTK40P50P
 
@@ -18,9 +18,9 @@ Two new FET working parts list May 30th 2024 Grid Works.
 
 1 5.7K resistor
 
-1 15K resistor
+1 30K resistor gate close P FET
 
-1 10K resistor
+1 40K resistor gate close N FET
 
 3 50K good qulity potenteometers
 
@@ -36,7 +36,7 @@ Two new FET working parts list May 30th 2024 Grid Works.
 
 Each 140-160 VDC solar array needs 5Amp glass fast blow fuse and holder.
 
-2 6K 5Watt resistors ceramic block
+2 12K 5Watt resistors ceramic block
 
 2 10MFD 200volt capacitors
 
